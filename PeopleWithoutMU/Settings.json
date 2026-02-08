@@ -1,0 +1,10 @@
+{
+    "apiToken": "token",
+    "country": "Germany",
+    "minimumLevel": 0,
+    // use a negative number to not use a maximum time
+    "maximumLastConnectionInHours": -1,
+    "ignoreBannedUsers": true,
+    // ignores players who own a MU but are not listed in a MU
+    "ignorePlayersWhoOwnMUs": true
+}
